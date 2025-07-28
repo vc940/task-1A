@@ -5,7 +5,7 @@ import google.generativeai as genai
 import shutil
 import time
 # Set your Gemini API key
-GOOGLE_API_KEY = "AIzaSyBrtSWzsmHJkWZZ5VGYCR70JNMyB6fihe0"
+GOOGLE_API_KEY = ""
 genai.configure(api_key=GOOGLE_API_KEY)
 
 def extract_text_from_pdf(pdf_path):
