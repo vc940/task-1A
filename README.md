@@ -1,4 +1,4 @@
-# Blood Donation Prediction - Task 1A
+# Blood Donation Prediction
 
 This project predicts whether a donor will donate blood in the future using a machine learning model trained on structured donor data (RFM and Time attributes).
 
